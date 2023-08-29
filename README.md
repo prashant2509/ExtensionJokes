@@ -1,2 +1,2 @@
-# ExtensionJokes
-Presenting an innovative browser plugin extension focused on humor, offering users a seamless experience of discovering fresh jokes with a simple click on the extension icon positioned at the upper right corner of the browser interface.
+# Dad-Jokes-Chrome-Extension
+You click on this google chrome extension to get a random Joke every time 😂
